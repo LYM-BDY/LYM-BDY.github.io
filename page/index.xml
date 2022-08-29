@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Pages on 贝塔世界@LYM-BDY</title>
+        <title>Pages on 贝塔世界</title>
         <link>https://lym-bdy.github.io/page/</link>
-        <description>Recent content in Pages on 贝塔世界@LYM-BDY</description>
+        <description>Recent content in Pages on 贝塔世界</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://lym-bdy.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
@@ -15,32 +15,13 @@
         <description></description>
         </item>
         <item>
-        <title>搜索</title>
-        <link>https://lym-bdy.github.io/search/</link>
+        <title>更多</title>
+        <link>https://lym-bdy.github.io/%E6%9B%B4%E5%A4%9A/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://lym-bdy.github.io/search/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>我和她</title>
-        <link>https://lym-bdy.github.io/%E6%88%91%E5%92%8C%E5%A5%B9/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://lym-bdy.github.io/%E6%88%91%E5%92%8C%E5%A5%B9/</guid>
-        <description>&lt;p&gt;她是一个很爱笑的女孩纸。                  &lt;br&gt;
-我希望，                   &lt;br&gt;
-她，                        &lt;br&gt;
-开心、快乐、幸福、健康，每一天。&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>我们的空间</title>
-        <link>https://lym-bdy.github.io/%E6%88%91%E4%BB%AC%E7%9A%84%E7%A9%BA%E9%97%B4/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://lym-bdy.github.io/%E6%88%91%E4%BB%AC%E7%9A%84%E7%A9%BA%E9%97%B4/</guid>
-        <description>&lt;h2 id=&#34;2022年7月19日初遇&#34;&gt;2022年7月19日（💕初遇）&lt;/h2&gt;
+        <guid>https://lym-bdy.github.io/%E6%9B%B4%E5%A4%9A/</guid>
+        <description>&lt;h2 id=&#34;2022年7月19日初遇&#34;&gt;&lt;meting-js auto=https://music.163.com/song?id&amp;#61;1299889486&amp;amp;&gt;&lt;/meting-js&gt;
+2022年7月19日（💕初遇）&lt;/h2&gt;
 &lt;p&gt;那天，在广东清远佛冈县，我人生中第一次遇到了她，可爱的她，爱笑的她。&lt;/p&gt;
 &lt;p&gt;她吖，叫小贝同学。&lt;/p&gt;
 &lt;p&gt;那一天，我从广州到她工作的地方维护设备，她坐在电脑桌前，她戴着口罩，穿着小白T，扎着小辫子，我能感觉到，
@@ -53,6 +34,27 @@
 &lt;p&gt;我既开心又害羞的小踮步走到她面前，说“当然是我扫你吖”，然后就很顺利的加上了她的微信，我问她叫什么名字，她说她叫BDY，
 我超喜欢她的名字的，我还说你麻麻给你取的名字真好听，然后领导就下来了，我们就准备上车回程广州，第一次搭讪喜欢的女生，成功。&lt;/p&gt;
 </description>
+        </item>
+        <item>
+        <title>关于</title>
+        <link>https://lym-bdy.github.io/%E5%85%B3%E4%BA%8E/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://lym-bdy.github.io/%E5%85%B3%E4%BA%8E/</guid>
+        <description>&lt;p&gt;她是一个很爱笑的女孩纸。                  &lt;br&gt;
+我希望，                   &lt;br&gt;
+她，                        &lt;br&gt;
+开心、快乐、幸福、健康，每一天。
+&lt;meting-js auto=https://music.163.com/song?id&amp;#61;25638340&amp;amp;&gt;&lt;/meting-js&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>搜索</title>
+        <link>https://lym-bdy.github.io/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://lym-bdy.github.io/search/</guid>
+        <description></description>
         </item>
         
     </channel>
