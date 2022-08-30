@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lym-bdy.github.io/zh-hk/categories/</loc>
+    <loc>https://lym-bdy.github.io/zh-tw/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -10,16 +10,16 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-tw"
-                href="https://lym-bdy.github.io/zh-tw/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="zh-hk"
                 href="https://lym-bdy.github.io/zh-hk/categories/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://lym-bdy.github.io/zh-tw/categories/"
+                />
   </url><url>
-    <loc>https://lym-bdy.github.io/zh-hk/tags/</loc>
+    <loc>https://lym-bdy.github.io/zh-tw/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -27,16 +27,16 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-tw"
-                href="https://lym-bdy.github.io/zh-tw/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="zh-hk"
                 href="https://lym-bdy.github.io/zh-hk/tags/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://lym-bdy.github.io/zh-tw/tags/"
+                />
   </url><url>
-    <loc>https://lym-bdy.github.io/zh-hk/</loc>
+    <loc>https://lym-bdy.github.io/zh-tw/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -44,13 +44,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-tw"
-                href="https://lym-bdy.github.io/zh-tw/"
+                hreflang="zh-hk"
+                href="https://lym-bdy.github.io/zh-hk/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-hk"
-                href="https://lym-bdy.github.io/zh-hk/"
+                hreflang="zh-tw"
+                href="https://lym-bdy.github.io/zh-tw/"
                 />
   </url>
 </urlset>

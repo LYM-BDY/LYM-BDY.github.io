@@ -341,11 +341,26 @@
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://lym-bdy.github.io/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;p&gt;她是一个很爱笑的女孩纸。                  &lt;br&gt;
+        <description>&lt;p&gt;农历7月16日，是她的生日。&lt;/p&gt;
+&lt;p&gt;她是一个很爱笑的女孩纸。                  &lt;br&gt;
 我希望，                   &lt;br&gt;
 她，                        &lt;br&gt;
-开心、快乐、幸福、健康，每一天。
-&lt;meting-js auto=https://music.163.com/song?id&amp;#61;25638340&amp;amp;&gt;&lt;/meting-js&gt;&lt;/p&gt;
+开心、快乐、幸福、健康，每一天。&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;video
+    controls
+    src=&#34;./video.mp4&#34;
+    poster=&#34;./video-poster.png&#34;
+    autoplay
+    &gt;
+        &lt;p&gt;
+            Your browser doesn&#39;t support HTML5 video. Here is a
+            &lt;a href=&#34;./video.mp4&#34;&gt;link to the video&lt;/a&gt; instead.
+        &lt;/p&gt;
+    &lt;/video&gt;
+&lt;/div&gt;
+
 </description>
         </item>
         <item>
