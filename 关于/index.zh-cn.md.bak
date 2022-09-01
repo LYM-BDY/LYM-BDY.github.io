@@ -1,0 +1,17 @@
+---
+title: 关于
+menu:
+    main: 
+    
+        weight: -90
+        params:
+            icon: user
+---
+农历7月16日，是她的生日。
+                                                                                 
+她是一个很爱笑的女孩纸。                     
+我希望，                      
+她，                           
+开心、快乐、幸福、健康，每一天。
+<!-- Other option -->
+{{< video src="./video.mp4" autoplay="true" poster="./video-poster.png" >}}
