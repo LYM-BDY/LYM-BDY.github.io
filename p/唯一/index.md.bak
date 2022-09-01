@@ -6,8 +6,10 @@ image: bdy.jpg
 hidden: false
 comments: true
 draft: false
+categories:
+    - 你要幸福
 ---
-{{<music  "https://music.163.com/song?id=1910984040&"autoplay="true">}}
+{{<music  "https://music.163.com/song?id=1910984040&">}}
 
 ## ꧁唯一的，就是TA꧂
 
