@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 <html lang="zh-cn" dir="ltr">
     <head><meta charset='utf-8'>
-<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content='梦开始的地方 '><title>更多</title>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content='梦开始的地方'><title>更多</title>
 
 <link rel='canonical' href='https://lym-bdy.github.io/%E6%9B%B4%E5%A4%9A/'>
 
 <link rel="stylesheet" href="/scss/style.min.ac77dcf8b111b51da39a92990f431923f210f3876d85798a2125667f96dc33a4.css"><meta property='og:title' content='更多'>
-<meta property='og:description' content='梦开始的地方 '>
+<meta property='og:description' content='梦开始的地方'>
 <meta property='og:url' content='https://lym-bdy.github.io/%E6%9B%B4%E5%A4%9A/'>
 <meta property='og:site_name' content='贝塔世界'>
 <meta property='og:type' content='article'><meta property='article:section' content='Page' />
 <meta name="twitter:title" content="更多">
-<meta name="twitter:description" content="梦开始的地方 "><style>
+<meta name="twitter:description" content="梦开始的地方"><style>
     :root {
         --article-font-family: "Noto Serif SC", var(--base-font-family);
     }
@@ -219,6 +219,8 @@
                         
                             <option value="https://lym-bdy.github.io/zh-tw/" >正體中文（台灣）</option>
                         
+                            <option value="https://lym-bdy.github.io/en/" >English</option>
+                        
                     </select>
                 </li>
             
@@ -413,10 +415,33 @@
     </section>
     
     <section class="powerby">
-        Built with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
-        主题 <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.13.0">Stack</a></b> 由 <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a> 设计
+        
+
+      LYM💕BDY💙一生一世
+
+<div>
+<span id="timeDate">载入天数...</span><span id="times">载入时分秒...</span>
+<script>
+    var now = new Date(); 
+    function createtime() { 
+        var grt= new Date("08/26/2022 00:00:00");
+        now.setTime(now.getTime()+250); 
+        days = (now - grt ) / 1000 / 60 / 60 / 24; dnum = Math.floor(days); 
+        hours = (now - grt ) / 1000 / 60 / 60 - (24 * dnum); hnum = Math.floor(hours); 
+        if(String(hnum).length ==1 ){hnum = "0" + hnum;} minutes = (now - grt ) / 1000 /60 - (24 * 60 * dnum) - (60 * hnum); 
+        mnum = Math.floor(minutes); if(String(mnum).length ==1 ){mnum = "0" + mnum;} 
+        seconds = (now - grt ) / 1000 - (24 * 60 * 60 * dnum) - (60 * 60 * hnum) - (60 * mnum); 
+        snum = Math.round(seconds); if(String(snum).length ==1 ){snum = "0" + snum;} 
+        document.getElementById("timeDate").innerHTML = "🍥网站运行时间： "+dnum+" 天 "; 
+        document.getElementById("times").innerHTML = hnum + " 小时 " + mnum + " 分 " + snum + " 秒"; 
+    } 
+setInterval("createtime()",250);
+</script>
+</div>
+
     </section>
 </footer>
+
 
 
     

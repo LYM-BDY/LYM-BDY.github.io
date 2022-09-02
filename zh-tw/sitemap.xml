@@ -15,6 +15,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="https://lym-bdy.github.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-tw"
                 href="https://lym-bdy.github.io/zh-tw/categories/"
                 />
@@ -32,6 +37,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="https://lym-bdy.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-tw"
                 href="https://lym-bdy.github.io/zh-tw/tags/"
                 />
@@ -46,6 +56,11 @@
                 rel="alternate"
                 hreflang="zh-hk"
                 href="https://lym-bdy.github.io/zh-hk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lym-bdy.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"

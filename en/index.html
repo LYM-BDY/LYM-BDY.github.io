@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="zh-cn" dir="ltr">
+<html lang="en" dir="ltr">
     <head>
 	<meta name="generator" content="Hugo 0.101.0" /><meta charset='utf-8'>
 <meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content='———✨欢迎来到贝塔世界✨由小明和小贝同学共同创意构造'><title>BerTa World</title>
@@ -12,7 +12,23 @@
 <meta property='og:site_name' content='BerTa World'>
 <meta property='og:type' content='website'>
 <meta name="twitter:title" content="BerTa World">
-<meta name="twitter:description" content="———✨欢迎来到贝塔世界✨由小明和小贝同学共同创意构造"><link rel="alternate" type="application/rss&#43;xml" href="https://lym-bdy.github.io/en/index.xml">
+<meta name="twitter:description" content="———✨欢迎来到贝塔世界✨由小明和小贝同学共同创意构造"><link rel="alternate" type="application/rss&#43;xml" href="https://lym-bdy.github.io/en/index.xml"><style>
+    :root {
+        --article-font-family: "Noto Serif SC", var(--base-font-family);
+    }
+</style>
+
+<script>
+		(function () {
+		    const customFont = document.createElement('link');
+		    customFont.href = "https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700&display=swap";
+		
+		    customFont.type = "text/css";
+		    customFont.rel = "stylesheet";
+		
+		    document.head.appendChild(customFont);
+		}());
+</script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
 <script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
 
@@ -94,11 +110,13 @@
 
                     <select name="language" onchange="window.location.href = this.selectedOptions[0].value">
                         
-                            <option value="https://lym-bdy.github.io/" >中文</option>
+                            <option value="https://lym-bdy.github.io/" >简体中文（中国大陆）</option>
+                        
+                            <option value="https://lym-bdy.github.io/zh-hk/" >繁体中文（香港）</option>
+                        
+                            <option value="https://lym-bdy.github.io/zh-tw/" >正體中文（台灣）</option>
                         
                             <option value="https://lym-bdy.github.io/en/" selected>English</option>
-                        
-                            <option value="https://lym-bdy.github.io/zh-hk/" >粤语</option>
                         
                     </select>
                 </li>
@@ -145,10 +163,33 @@
     </section>
     
     <section class="powerby">
-        Built with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
-        Theme <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.13.0">Stack</a></b> designed by <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
+        
+
+      LYM💕BDY💙一生一世
+
+<div>
+<span id="timeDate">载入天数...</span><span id="times">载入时分秒...</span>
+<script>
+    var now = new Date(); 
+    function createtime() { 
+        var grt= new Date("08/26/2022 00:00:00");
+        now.setTime(now.getTime()+250); 
+        days = (now - grt ) / 1000 / 60 / 60 / 24; dnum = Math.floor(days); 
+        hours = (now - grt ) / 1000 / 60 / 60 - (24 * dnum); hnum = Math.floor(hours); 
+        if(String(hnum).length ==1 ){hnum = "0" + hnum;} minutes = (now - grt ) / 1000 /60 - (24 * 60 * dnum) - (60 * hnum); 
+        mnum = Math.floor(minutes); if(String(mnum).length ==1 ){mnum = "0" + mnum;} 
+        seconds = (now - grt ) / 1000 - (24 * 60 * 60 * dnum) - (60 * 60 * hnum) - (60 * mnum); 
+        snum = Math.round(seconds); if(String(snum).length ==1 ){snum = "0" + snum;} 
+        document.getElementById("timeDate").innerHTML = "🍥网站运行时间： "+dnum+" 天 "; 
+        document.getElementById("times").innerHTML = hnum + " 小时 " + mnum + " 分 " + snum + " 秒"; 
+    } 
+setInterval("createtime()",250);
+</script>
+</div>
+
     </section>
 </footer>
+
 
             </main>
     <aside class="sidebar right-sidebar sticky">
