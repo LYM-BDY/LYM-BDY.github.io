@@ -415,14 +415,14 @@
     <section class="powerby">
         
 
-      LYM💕BDY💙一生一世
+      LYM💕BDY💕一生一世
 
 <div>
 <span id="timeDate">载入天数...</span><span id="times">载入时分秒...</span>
 <script>
     var now = new Date(); 
     function createtime() { 
-        var grt= new Date("08/26/2022 00:00:00");
+        var grt= new Date("07/19/2022 11:18:00");
         now.setTime(now.getTime()+250); 
         days = (now - grt ) / 1000 / 60 / 60 / 24; dnum = Math.floor(days); 
         hours = (now - grt ) / 1000 / 60 / 60 - (24 * dnum); hnum = Math.floor(hours); 
@@ -430,7 +430,7 @@
         mnum = Math.floor(minutes); if(String(mnum).length ==1 ){mnum = "0" + mnum;} 
         seconds = (now - grt ) / 1000 - (24 * 60 * 60 * dnum) - (60 * 60 * hnum) - (60 * mnum); 
         snum = Math.round(seconds); if(String(snum).length ==1 ){snum = "0" + snum;} 
-        document.getElementById("timeDate").innerHTML = "🍥网站运行时间： "+dnum+" 天 "; 
+        document.getElementById("timeDate").innerHTML = "🍥小明同学相遇小贝同学的时长： "+dnum+" 天 "; 
         document.getElementById("times").innerHTML = hnum + " 小时 " + mnum + " 分 " + snum + " 秒"; 
     } 
 setInterval("createtime()",250);
